@@ -4,7 +4,7 @@
 		"name": "Booker",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "45143144",
-		"_collection_link": "https://larisa-4294972.postman.co/workspace/Lari-%E2%80%93-API-Testing~74348568-8efe-4b65-b26d-dbb5c53c0c8f/collection/45143144-c6d79d14-1007-4ae7-b20e-8ecf76f48632?action=share&source=collection_link&creator=45143144"
+		"_collection_link": "https://larisa-4294972.postman.co/workspace/Lari-%25E2%2580%2593-API-Testing~74348568-8efe-4b65-b26d-dbb5c53c0c8f/collection/45143144-c6d79d14-1007-4ae7-b20e-8ecf76f48632?action=share&source=collection_link&creator=45143144"
 	},
 	"item": [
 		{
@@ -230,7 +230,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"firstname\" : \"Larisa\",\r\n    \"lastname\" : \"{{$randomLastName}}\",\r\n    \"totalprice\" : {{$randomPrice}},\r\n    \"depositpaid\" : true,\r\n    \"bookingdates\" : {\r\n        \"checkin\" : \"2018-01-01\",\r\n        \"checkout\" : \"2019-01-01\"\r\n    },\r\n    \"additionalneeds\" : \"Breakfast\"\r\n}",
+					"raw": "{\r\n    \"firstname\" : \"Larisa\",\r\n    \"lastname\" : \"{{$randomLastName}}\",\r\n    \"totalprice\" : {{randomPrice}},\r\n    \"depositpaid\" : true,\r\n    \"bookingdates\" : {\r\n        \"checkin\" : \"2018-01-01\",\r\n        \"checkout\" : \"2019-01-01\"\r\n    },\r\n    \"additionalneeds\" : \"Breakfast\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
