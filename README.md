@@ -26,7 +26,9 @@ Entre las principales validaciones incluidas en las peticiones se encuentran:
 
 ⚙️ Configuración y Ejecución Local Para clonar y ejecutar este proyecto en tu entorno local:
 
-1-Clonar el repositorio: 2-Importar en Postman: 3-Ejecutar la Colección:
+1-Clonar el repositorio
+2-Importar en Postman
+3-Ejecutar la Colección:
 
 💡 Nota sobre Seguridad: Las variables incluidas en environment.json corresponden a un entorno público de pruebas con datos sintéticos.
 
