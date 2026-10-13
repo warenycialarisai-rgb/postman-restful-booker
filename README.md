@@ -12,6 +12,7 @@ Postman: Diseño, ejecución y automatización de peticiones HTTP.
 JavaScript: Escribir aserciones y validaciones dentro de la pestaña Tests.
 Postman Environments: Gestión dinámica de URLs y variables de entorno.
 Git & GitHub: Control de versiones y documentación.
+
 📋 Pruebas e Identificación de Cobertura
 
 Entre las principales validaciones incluidas en las peticiones se encuentran:
